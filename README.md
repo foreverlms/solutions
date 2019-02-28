@@ -1,2 +1,5 @@
-# rush
+# Solutions
+
 snippets of LeetCode/PythonTips
+
+
