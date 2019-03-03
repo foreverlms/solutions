@@ -14,5 +14,6 @@ using namespace std;
 class Solution{
 public:
     string longestCommonPrefix(vector<string>& strs);
+    int minPathSum(vector<vector<int>>& grid);
 };
 #endif //CPP_HEADER_H
