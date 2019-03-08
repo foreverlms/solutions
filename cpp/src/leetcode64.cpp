@@ -5,7 +5,7 @@
 #include "../include/header.h"
 #include <math.h>
 
-int minPathSum(vector<vector<int>>& grid) {
+int Solution::minPathSum(vector<vector<int>>& grid) {
     //定义一个二维数组来存放相对应的累加和
     int sum[grid.size()][grid[0].size()];
     unsigned long m = grid.size();
@@ -33,3 +33,4 @@ int minPathSum(vector<vector<int>>& grid) {
 
     return sum[m-1][n-1];
 }
+
