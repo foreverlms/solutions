@@ -22,17 +22,13 @@ int main() {
 //        p = p->next;
 //    }
 
-    Solution solution;
-    vector<vector<int>> a = {{1,2,3},{4,5,6},{7,8,9}};
+    vector<int> a = {1,2,3,4};
 
-    solution.rotate(a);
+    auto start = begin(a),end_ = end(a);
 
-    for (int i = 0; i < a.size(); ++i) {
-        for (int j = 0; j < a.size(); ++j) {
-            cout << a[i][j] << " ";
-        }
-        cout << endl;
-    }
+    for (start;start != end_;start++)
+        cout << *start << endl;
+    
 
     return 0;
 }
