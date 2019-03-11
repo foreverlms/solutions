@@ -1,6 +1,6 @@
 #include <iostream>
 //#include "include/header.h"
-#include "src/leetcode48.cpp"
+#include "src/leetcode28.cpp"
 
 int main() {
 //    vector<string> strs = {};
@@ -22,13 +22,8 @@ int main() {
 //        p = p->next;
 //    }
 
-    vector<int> a = {1,2,3,4};
-
-    auto start = begin(a),end_ = end(a);
-
-    for (start;start != end_;start++)
-        cout << *start << endl;
-    
+    Solution solution;
+    cout << solution.strStr("hello","ll");
 
     return 0;
 }
