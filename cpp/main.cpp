@@ -1,6 +1,6 @@
 #include <iostream>
 //#include "include/header.h"
-#include "src/leetcode28.cpp"
+#include "src/leetcode35.cpp"
 
 int main() {
 //    vector<string> strs = {};
@@ -23,7 +23,8 @@ int main() {
 //    }
 
     Solution solution;
-    cout << solution.strStr("hello","ll");
+    vector<int> a = {1,3,5,6};
+    cout << solution.searchInsert(a,7);
 
     return 0;
 }
