@@ -1,6 +1,6 @@
 #include <iostream>
 //#include "include/header.h"
-#include "src/leetcode38.cpp"
+#include "src/leetcode58.cpp"
 
 int main() {
 //    vector<string> strs = {};
@@ -23,11 +23,6 @@ int main() {
 //    }
 
     Solution solution;
-    solution.countAndSay(3);
-
-    string a = "122";
-
-    cout << a + 1 << endl;
-
+    cout << solution.lengthOfLastWord("a ") << endl;
     return 0;
 }
