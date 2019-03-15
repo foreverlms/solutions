@@ -1,6 +1,6 @@
 #include <iostream>
 //#include "include/header.h"
-#include "src/leetcode58.cpp"
+#include "src/leetcode66.cpp"
 
 int main() {
 //    vector<string> strs = {};
@@ -23,6 +23,12 @@ int main() {
 //    }
 
     Solution solution;
-    cout << solution.lengthOfLastWord("a ") << endl;
+    vector<int> a = {9};
+    solution.plusOne(a);
+    auto start = begin(a),last = end(a);
+    while (start != last){
+        cout << *start << endl;
+        start++;
+    }
     return 0;
 }

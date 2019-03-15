@@ -1,8 +1,8 @@
-cmake_minimum_required(VERSION 3.13)
+cmake_minimum_required(VERSION 2.8)
 project(cpp)
 
 set(CMAKE_CXX_STANDARD 11)
-set(SRC_LIST main.cpp src/leetcode58.cpp)
+set(SRC_LIST main.cpp src/leetcode66.cpp)
 
 add_subdirectory(include)
 add_subdirectory(src)
