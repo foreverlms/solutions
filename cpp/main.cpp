@@ -1,6 +1,6 @@
 #include <iostream>
 //#include "include/header.h"
-#include "src/leetcode66.cpp"
+#include "src/leetcode67.cpp"
 
 int main() {
 //    vector<string> strs = {};
@@ -23,12 +23,6 @@ int main() {
 //    }
 
     Solution solution;
-    vector<int> a = {9};
-    solution.plusOne(a);
-    auto start = begin(a),last = end(a);
-    while (start != last){
-        cout << *start << endl;
-        start++;
-    }
+    cout << solution.addBinary("1001","1111");
     return 0;
 }
