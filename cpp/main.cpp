@@ -1,6 +1,6 @@
 #include <iostream>
 //#include "include/header.h"
-#include "src/leetcode67.cpp"
+#include "src/leetcode69.cpp"
 
 int main() {
 //    vector<string> strs = {};
@@ -23,6 +23,6 @@ int main() {
 //    }
 
     Solution solution;
-    cout << solution.addBinary("1001","1111");
+    cout << solution.mySqrt(16);
     return 0;
 }
