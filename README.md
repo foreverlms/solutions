@@ -1,6 +1,7 @@
 # Solutions
 
 LeetCode以及PythonTips上的题目解答
+
 LeetCode主页:[codechaser](https://leetcode.com/coderchaser/).
 
 ## LeetCode
