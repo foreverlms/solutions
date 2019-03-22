@@ -24,7 +24,7 @@ LeetCode主页:[codechaser](https://leetcode.com/coderchaser/).
 |64|Minimum Path Sum|Medium|Java|5ms/44.19%||
 |64|Minimum Path Sum|Medium|CPP|12ms/99.21%||
 |20|Valid Parentheses|Easy|Java|3ms/99.61%||
-|21|Merge Two Sorted Lists|CPP|12ms/99.10%||
+|21|Merge Two Sorted Lists|Easy|CPP|12ms/99.10%||
 |83|Remove Duplicates from Sorted List|Easy|CPP|12ms/100%||
 |83|Remove Duplicates from Sorted List|Easy|Python3|72ms/14.5%||
 |48|Rotate Image|Medium|CPP|4ms/100%||
@@ -37,5 +37,6 @@ LeetCode主页:[codechaser](https://leetcode.com/coderchaser/).
 |38|Count and Say|Easy|CPP|16.45%||
 |401|Binary Watch|Easy|CPP|31ms||
 |26|Remove Duplicates from Sorted Array|Easy|CPP|24ms/99.26%||
+|69|Sqrt(x)|Easy|CPP|12ms/98.99%|牛顿迭代法|
 
 ## Python-Tips
