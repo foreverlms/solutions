@@ -41,5 +41,5 @@ LeetCode主页:[codechaser](https://leetcode.com/coderchaser/).
 |26|Remove Duplicates from Sorted Array|Easy|CPP|24ms/99.26%||
 |69|Sqrt(x)|Easy|[CPP](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode69.cpp)|12ms/98.99%|牛顿迭代法|
 |70|Climbing Stairs|Easy|[CPP](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode70.cpp)|4ms/100%|类似于斐波那契数列，当前台阶需要的步数等于前两阶和前一阶的步数之和。`f(n) = f(n-1) + f(n-2)`|
-
+|88|Merge Sorted Array|Easy|[CPP](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode88.cpp)|4ms/100%|见链接|
 ## Python-Tips

@@ -1,6 +1,6 @@
 #include <iostream>
 //#include "include/header.h"
-#include "src/leetcode70.cpp"
+#include "src/leetcode88.cpp"
 
 int main() {
 //    vector<string> strs = {};
@@ -23,6 +23,5 @@ int main() {
 //    }
 
     Solution solution;
-    std::cout << solution.climbStairs(3);
     return 0;
 }
