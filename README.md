@@ -3,7 +3,7 @@
 LeetCode以及PythonTips上的题目解答
 
 LeetCode主页:[codechaser](https://leetcode.com/coderchaser/).
-已做题目数： **29**
+已做题目数： **30**
 
 ## LeetCode
 
