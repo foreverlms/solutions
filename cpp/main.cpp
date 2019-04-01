@@ -1,6 +1,7 @@
 #include <iostream>
 //#include "include/header.h"
-#include "src/leetcode88.cpp"
+#include "src/leetcode15.cpp"
+//#include "src/leetcode88.cpp"
 
 int main() {
 //    vector<string> strs = {};
@@ -23,5 +24,14 @@ int main() {
 //    }
 
     Solution solution;
+//    vector<int> a = {-1, 0, 1, 2, -1, -4};
+    vector<int> a = {-4,-2,1,-5,-4,-4,4,-2,0,4,0,-2,3,1,-5,0};
+    for (auto x : solution.threeSum(a)){
+        for (auto y : x){
+            cout << y << " ";
+        }
+        cout << endl;
+    }
+
     return 0;
 }
