@@ -3,7 +3,7 @@
 LeetCode以及pythonTips上的题目解答
 
 LeetCode主页:[codechaser](https://leetcode.com/coderchaser/).
-已做题目数： **31**
+已做题目数： **32**
 
 ## LeetCode
 
@@ -43,3 +43,4 @@ LeetCode主页:[codechaser](https://leetcode.com/coderchaser/).
 |70|Climbing Stairs|Easy|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode70.cpp)|4ms/100%|类似于斐波那契数列，当前台阶需要的步数等于前两阶和前一阶的步数之和。`f(n) = f(n-1) + f(n-2)`|
 |88|Merge Sorted Array|Easy|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode88.cpp)|4ms/100%|见链接|
 |15|3Sum|Medium|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode15.cpp)|100ms/95.18%|见链接|
+|100|Same Tree|Easy|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode100.cpp)|4ms/100%|见链接|
