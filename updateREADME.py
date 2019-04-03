@@ -15,7 +15,7 @@ def get_parser():
 	parser = argparse.ArgumentParser("更新solution的README.md")
 	parser.add_argument('title',metavar='TITLE',type=str,help="所添加题目")
 	parser.add_argument('-n','--num',type=int,required=True,help="题号")
-	parser.add_argument('-l','--lang',type=str,required=True,default="cpp",help="语言,cpp/java/c/python",choices=['cpp',"python","java"])
+	parser.add_argument('-l','--lang',type=str,default="cpp",help="语言,cpp/java/c/python",choices=['cpp',"python","java"])
 	parser.add_argument('-d','--difficulty',type=str,default="Easy",help="题目难度等级，easy/medium/difficult")
 	parser.add_argument('-r','--run_time',type=str,help="runtime和排名占比",required=True)
 	parser.add_argument('-m','--mind',type=str,default="见链接",help="解法思路")

@@ -3,7 +3,7 @@
 LeetCode以及pythonTips上的题目解答
 
 LeetCode主页:[codechaser](https://leetcode.com/coderchaser/).
-已做题目数： **32**
+已做题目数： **33**
 
 ## LeetCode
 
@@ -44,3 +44,4 @@ LeetCode主页:[codechaser](https://leetcode.com/coderchaser/).
 |88|Merge Sorted Array|Easy|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode88.cpp)|4ms/100%|见链接|
 |15|3Sum|Medium|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode15.cpp)|100ms/95.18%|见链接|
 |100|Same Tree|Easy|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode100.cpp)|4ms/100%|见链接|
+|101|Symmetric Tree|Easy|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode101.cpp)|8ms/100%|见链接|
