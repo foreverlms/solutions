@@ -3,7 +3,7 @@
 LeetCode以及pythonTips上的题目解答
 
 LeetCode主页:[codechaser](https://leetcode.com/coderchaser/).
-已做题目数： **37**
+已做题目数： **38**
 
 ## LeetCode
 
@@ -50,3 +50,4 @@ LeetCode主页:[codechaser](https://leetcode.com/coderchaser/).
 |102|Binary Tree Level Order Traversal|Medium|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode102.cpp)|8ms/100%|见链接|
 |155|Min Stack|Easy|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode155.cpp)|48ms/19.02%|见链接|
 |111|Minimum Depth of Binary Tree(二叉树最小深度问题)|Easy|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode111.cpp)|16ms/99.35%|见链接|
+|5|Longest Palindromic Substring|Medium|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode5.cpp)|4ms/100.00%|见链接|
