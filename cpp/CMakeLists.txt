@@ -2,7 +2,8 @@ cmake_minimum_required(VERSION 2.8)
 project(cpp)
 
 set(CMAKE_CXX_STANDARD 11)
-set(SRC_LIST main.cpp src/leetcode111.cpp)
+set(SRC_LIST "./src/acmcoder/001.cpp")
+
 
 add_subdirectory(include)
 add_subdirectory(src)
