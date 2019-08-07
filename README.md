@@ -2,8 +2,8 @@
 
 LeetCode以及pythonTips上的题目解答
 
-LeetCode主页:[codechaser](https://leetcode.com/coderchaser/).
-已做题目数： **40**
+LeetCode主页:[bobliao](https://leetcode-cn.com/u/bobliao).
+已做题目数： **41**
 
 ## LeetCode
 
@@ -53,3 +53,4 @@ LeetCode主页:[codechaser](https://leetcode.com/coderchaser/).
 |5|Longest Palindromic Substring|Medium|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode5.cpp)|4ms/100.00%|见链接|
 |6|ZigZag Conversion|Medium|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode6.cpp)|16ms/90.50%|见链接|
 |12|Integer to Roman|Medium|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode12.cpp)|20ms/75.04%|见链接|
+|374|猜数字|Easy|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode374.cpp)|0ms/100%|大疆笔试题以及刚做的一道leetcode，min+(max-min)/2|
