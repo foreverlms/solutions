@@ -6,7 +6,7 @@ import re
 
 total = 0;
 format_str = ''
-format_str_cpp = "|{num}|{title}|{difficulty}|[{lang}](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode{num}.cpp)|{run_time}|{mind}|"
+format_str_cpp = "|{num}|{title}|{difficulty}|[{lang}](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode/leetcode{num}.cpp)|{run_time}|{mind}|"
 format_str_java = " "#待定
 format_str_python = "|{num}|{title}|{difficulty}|[{lang}](https://github.com/foreverlms/solutions/blob/master/python/leetcode{num}.py)|{run_time}|{mind}|"
 
@@ -52,7 +52,7 @@ def format_python_str():
 
 
 if lang_ == "cpp":
-	format_str = "|{num}|{title}|{difficulty}|[{lang}](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode{num}.cpp)|{run_time}|{mind}|\n".format(num=num_,title=title_,lang=lang_,difficulty=difficulty_,run_time=run_time_,mind=mind_)
+	format_str = "|{num}|{title}|{difficulty}|[{lang}](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode/leetcode{num}.cpp)|{run_time}|{mind}|\n".format(num=num_,title=title_,lang=lang_,difficulty=difficulty_,run_time=run_time_,mind=mind_)
 elif lang_ == "java":
 	pass
 elif lang_ == 'python':

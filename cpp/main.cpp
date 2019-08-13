@@ -1,6 +1,6 @@
 #include <iostream>
 //#include "include/header.h"
-#include "src/leetcode374.cpp"
+#include "src/leetcode/leetcode374.cpp"
 //#include "src/leetcode88.cpp"
 
 int main()
@@ -23,9 +23,5 @@ int main()
     //        cout << p->val << endl;
     //        p = p->next;
     //    }
-
-    Solution solution;
-    int a = solution.guessNumber(10);
-    std::cout << a << std::endl;
     //    vector<int> a = {-1, 0, 1, 2, -1, -4};
 }
