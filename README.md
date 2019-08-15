@@ -3,7 +3,7 @@
 LeetCode以及pythonTips上的题目解答
 
 LeetCode主页:[bobliao](https://leetcode-cn.com/u/bobliao).
-已做题目数： **42**
+已做题目数： **43**
 
 ## LeetCode
 
@@ -55,3 +55,4 @@ LeetCode主页:[bobliao](https://leetcode-cn.com/u/bobliao).
 |12|Integer to Roman|Medium|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode/leetcode12.cpp)|20ms/75.04%|见链接|
 |374|猜数字|Easy|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode/leetcode374.cpp)|0ms/100%|大疆笔试题以及刚做的一道leetcode，min+(max-min)/2|
 |954|二倍对数组|Easy|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode/leetcode954.cpp)|超时|见链接|
+|938|二叉搜索树的范围和|Easy|[cpp](https://github.com/foreverlms/solutions/blob/master/cpp/src/leetcode/leetcode938.cpp)|188ms/71%|见链接|

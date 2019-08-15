@@ -10,13 +10,16 @@ using namespace std;
 class Solution
 {
 public:
+    bool compare(int a,int b){
+        return abs(a)<abs(b);
+    }
     bool canReorderDoubled(vector<int> &A)
     {
         if(A.size()==0){
             return true;
         }
         int first, second;
-        sort(A.begin(), A.end());
+        sort(A.begin(), A.end(),compare);
         int *flag = new int[A.size()]();
         int positive = 0;
         for (; positive < A.size(); positive++)
