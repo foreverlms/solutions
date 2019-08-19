@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 2.8)
 project(cpp)
 
 set(CMAKE_CXX_STANDARD 11)
-set(SRC_LIST "./src/360/first.cpp")
+set(SRC_LIST "./src/test.cpp")
 
 
 include_directories("./include")
