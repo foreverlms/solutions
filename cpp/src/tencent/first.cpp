@@ -2,7 +2,7 @@
 
 using namespace std;
 /**
- *  栏杆问题 滑动窗口
+ *  栏杆问题 滑动窗口 描述见1.jpg
  */
 
 int main(void){

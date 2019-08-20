@@ -2,7 +2,9 @@
 #include<cmath>
 #include<stack>
 
-
+/**
+ * 经杰哥提醒，题目就是leetcode 892。
+ */
 using namespace std;
 
 // int dp[6];

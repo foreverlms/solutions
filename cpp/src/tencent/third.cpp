@@ -2,7 +2,8 @@
 
 using namespace std;
 /**
- * 冰激凌 
+ * 冰激凌 没想出来 
+ * 描述见3.jpg
  */
 int main(void){
     int m,n;
