@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 2.8)
 project(cpp)
 
-set(CMAKE_CXX_STANDARD 11)
-# set(SRC_LIST "./src/jd/src/choice.cpp")
-set(SRC_LIST "./src/test.cpp")
+add_definitions(-std=c++11)
+# set(SRC_LIST "./src/test.cpp")
+set(SRC_LIST "./src/网易互娱/second.cpp")
 
 
 
