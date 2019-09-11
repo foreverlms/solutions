@@ -255,10 +255,38 @@ void replaceSpace(char *str, int length)
     }
 }
 
+#include <string>
+
+bool judgeSubstring(string pattern,string source){
+    int p = 0, s=0;
+    // while (p<pattern.length() && s < source.length())
+    // {
+    //     if()
+    // }
+    
+}
+bool judge(string drawString, string ticket)
+{
+    if (ticket.size() > drawString.size())
+    {
+        return false;
+    }
+
+    int d_length = drawString.size();
+    int t_length = ticket.length();
+    bool deleted = false;
+    bool o_a = false;
+    bool t_l = false;
+
+}
+
 int main(void)
 {
-    // char str[30] = "abc def gh";
+    int numTickets;
+    cin >> numTickets;
+    string drawString;
 
-    // replaceSpace(str, 30);
-    // cout << str << endl;
+    cin >> drawString;
+
+    vector<string> tickets;
 }
